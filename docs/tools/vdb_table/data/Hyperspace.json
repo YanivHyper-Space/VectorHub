@@ -19,8 +19,8 @@
   },
   "dev_languages": {
     "value": [
-      "python",
-      "java"
+      "verilog",
+      "c++"
     ],
     "source_url": "",
     "comment": ""
@@ -37,7 +37,7 @@
     "comment": "Support complex logic, including mutliplication and division of vector and keyword based scores. No limitations on numer of keyword fields or vector fields"
   },
   "facets": {
-    "support": "partial",
+    "support": "full",
     "source_url": "https://docs.hyper-space.io/hyperspace-docs/flows/data-collections/python-query-interface/aggregations",
     "comment": ""
   },
@@ -117,7 +117,7 @@
     "comment": ""
   },
   "multi_tenancy": {
-    "support": "none",
+    "support": "full",
     "source_url": "",
     "comment": ""
   },
